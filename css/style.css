@@ -138,7 +138,7 @@ p{
 }
 
 #home-info {
-    height: 400px;
+    height: 450px;
 }
 
 #home-info .info-img {
@@ -203,7 +203,7 @@ p{
 }
 
 #testimonials {
-    height: 600px;
+    height: 100%;
     background: url('../image_resources/test-bg.jpg') no-repeat center center/cover;
 }
 
